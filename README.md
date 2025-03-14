@@ -1,16 +1,18 @@
-## Hi there 👋
+# Welcome to My Profile 🎉
 
-<!--
-**omair3/omair3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Mohammed Omairullah**, a passionate developer interested in **Web Development, AI, & Cybersecurity**.  
+Check out my projects and feel free to connect with me!
 
-Here are some ideas to get you started:
+## 📌 About Me
+- 🔭 I’m currently working on **TTC web messaging platform**
+- 🌱 Learning **Javascript,Python,Java,**
+- 🎯 Career Goals: **I want to make Web Products that make human lives easier**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+# Contact Me 📬
+
+Find me online:
+
+- 🌐 [GitHub](https://github.com/omair3)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohd-omair-947b78139)
+- 🌍 [Portfolio](https://03A1R.com)

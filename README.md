@@ -1,3 +1,11 @@
+![cover photo](https://github.com/user-attachments/assets/f78b948d-c0b8-4cd8-a256-7a5feff7a8bf)
+
+
+
+
+
+
+
 # Welcome to My Profile 🎉
 
 Hi, I'm **Mohammed Omairullah**, a passionate developer interested in **Web Development, AI, & Cybersecurity**.  
